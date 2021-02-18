@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mordi Goldstein
+- 👋 Hey, I’m Mordi Goldstein
 - 👀 I’m interested in coding, investing and start ups
 - 🌱 I’m currently learning data science using Python
 - 📫 You can email me at mordigold97@gmail.com
